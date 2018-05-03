@@ -1,0 +1,3 @@
+[submodule "Char-RNN-TensorFlow"]
+	path = Char-RNN-TensorFlow
+	url = git@github.com:hzy46/Char-RNN-TensorFlow.git
